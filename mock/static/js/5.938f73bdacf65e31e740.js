@@ -1,0 +1,2 @@
+webpackJsonp([5],{Izng:function(e,t){},QV70:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  Collect\n")])},staticRenderFns:[]};var o=n("VU/8")({name:"collect",data:function(){return{}},methods:{},computed:{},components:{}},c,!1,function(e){n("Izng")},"data-v-50a3315c",null);t.default=o.exports}});
+//# sourceMappingURL=5.938f73bdacf65e31e740.js.map
